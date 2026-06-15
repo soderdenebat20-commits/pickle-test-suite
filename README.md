@@ -4,8 +4,8 @@
 Does Python's pickle module produce byte-for-byte identical output for the same input across all data types and protocol versions (0–5)?
 
 ## Team Members
-- Member 1: [Your Name] — TestEquivalencePartitioning, TestBoundaryValues, TestRoundTrip
-- Member 2: [Your Name] — TestRecursiveStructures, TestProtocolVersions, TestFuzzing, TestWhiteBox
+- Member 1: BAT-ERDENE SOD-ERDENE — TestEquivalencePartitioning, TestBoundaryValues, TestRoundTrip
+- Member 2: AMINA AZAMAT — TestRecursiveStructures, TestProtocolVersions, TestFuzzing, TestWhiteBox
 
 ## How to Run
 ```bash
